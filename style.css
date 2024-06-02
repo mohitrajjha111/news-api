@@ -40,6 +40,7 @@ button:hover {
     border-radius: 50px;
     margin-top: 2%;
     background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
